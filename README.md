@@ -1,29 +1,6 @@
-# travesy-crash-course
+# A Simple TODO List
 
-## Project setup
-```
-npm install
-```
+CRUD app using Jsonplaceholder, as backend server.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Taught By Traversy Media
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
